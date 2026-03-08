@@ -1,0 +1,36 @@
+body{
+   background-color: rgb(41, 28, 28);
+   color: #fff;
+   display: flex;
+   justify-content: center;
+}
+h1{
+    background-color: black;
+    margin-top: 0;
+}
+.wrap{
+    height:35rem;
+    width: 25rem;
+    background-color: #414141;
+    margin-top: 8rem;
+    text-align: center;
+}
+#labl1{
+    font-size: 3rem;
+}
+#guessFeild{
+    height: 2rem;
+    width:12rem;
+    font-size: 2rem;
+    text-align: center;
+}
+#sbt{
+    margin-top: 2rem;
+    height:2rem;
+    width:10rem;
+    background-color: black;
+    color:#fff;
+    border:none;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+}
